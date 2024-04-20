@@ -1,0 +1,3 @@
+# ignoring cshapr
+**/bin
+**/obj
