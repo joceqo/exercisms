@@ -6,8 +6,8 @@ i find it very useful to learn new languages because you can compare it with oth
 ## How to run program
 
 ### C#
-dotnet run filename
+`dotnet run filename`
 
 ### Swift
 
-Swift filename
+`swift filename`
