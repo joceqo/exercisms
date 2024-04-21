@@ -45,3 +45,61 @@ todo
 ### Javascript
 
 `node filename.js`
+
+
+### Typescript
+
+`ts-node filename.ts`
+or
+`tsc filename.ts && node filename.js`
+
+### Lisp
+
+`clisp filename.lisp`
+or
+`ros run filename.lisp`
+
+### Lua 
+
+`lua filename.lua`
+
+### Haskell
+
+Haskell have the GHC (Glasgow Haskell Compiler) to compile and run the program
+`ghc filename.hs`
+`./filename`
+
+HelloWorld.hi - The interface file.
+HelloWorld.o - The object file.
+HelloWorld (or HelloWorld.exe on Windows) - The executable, if a main function were defined.
+
+### OCaml
+
+`ocaml filename.ml`
+
+### Nim
+
+`nim c filename.nim`
+`./filename`
+
+### Php
+
+`php filename.php`
+
+### Python
+
+`python3 filename.py`
+
+### Sqlite
+
+`sqlite3 -bail < filename.sql`
+
+### WASM
+`wasmtime filename.wasm`
+
+### Zig
+`zig run filename.zig`
+
+### CPP 
+`g++ filename.cpp -o filename`
+`./filename`
