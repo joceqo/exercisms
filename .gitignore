@@ -6,3 +6,12 @@
 **/*.out
 **/*.plist
 **/*.dSYM
+
+# ignoring java
+**/*.class
+**/*.jar
+**/.gradle
+**/build
+
+# ignoring node_modules
+**/node_modules

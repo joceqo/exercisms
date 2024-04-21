@@ -27,3 +27,21 @@ or i use `make` to compile and run the program
 ### Ruby
 
 `ruby filename.rb`
+
+### Java
+
+### No gradle or maven 
+`javac filename.java`
+`java filename`
+
+#### With gradle or maven
+
+#### Gradle
+`gradle run` or `gradle test`
+
+#### Maven
+todo
+
+### Javascript
+
+`node filename.js`
