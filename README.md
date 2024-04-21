@@ -11,3 +11,19 @@ i find it very useful to learn new languages because you can compare it with oth
 ### Swift
 
 `swift filename`
+
+### Bash
+
+`./filename.sh`
+
+### C
+
+`gcc filename.c -o filename`
+
+`./filename`
+
+or i use `make` to compile and run the program
+
+### Ruby
+
+`ruby filename.rb`

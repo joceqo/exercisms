@@ -1,3 +1,8 @@
 # ignoring cshapr
 **/bin
 **/obj
+
+# ignoring c 
+**/*.out
+**/*.plist
+**/*.dSYM
