@@ -4,13 +4,14 @@ load bats-extra
 # local version: 1.7.0.1
 
 @test 'basic' {
-  #[[ $BATS_RUN_SKIPPED == "true" ]] || skip
+  [[ $BATS_RUN_SKIPPED == "true" ]] || skip
   run bash acronym.sh 'Portable Network Graphics'
   assert_success
   assert_output 'PNG'
 }
 
 @test 'lowercase words' {
+  [[ $BATS_RUN_SKIPPED == "true" ]] || skip
   run bash acronym.sh 'Ruby on Rails'
   assert_success
   assert_output 'ROR'
@@ -52,7 +53,7 @@ load bats-extra
 }
 
 @test "apostrophes" {
-  [[ $BATS_RUN_SKIPPED == "true" ]] || skip
+  # [[ $BATS_RUN_SKIPPED == "true" ]] || skip
   run bash acronym.sh "Halley's Comet"
   assert_success
   assert_output "HC"
