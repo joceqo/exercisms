@@ -2,7 +2,7 @@ import { cost } from './book-store';
 
 describe('Book Store', () => {
   describe('Creating a basket', () => {
-    test.only('only a single book', () => {
+    test('only a single book', () => {
       const basket = [1];
       expect(cost(basket)).toEqual(800);
     });
@@ -17,7 +17,7 @@ describe('Book Store', () => {
       expect(cost(basket)).toEqual(0);
     });
 
-    test('two different books', () => {
+    test.only('two different books', () => {
       const basket = [1, 2];
       expect(cost(basket)).toEqual(1520);
     });
