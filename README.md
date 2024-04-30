@@ -1,11 +1,10 @@
 # Exercim
 
-You can find the exercises on [exercism.io](https://exercism.io/my/tracks)
-i find it very useful to learn new languages because you can compare it with others languages you know.
+You can find the exercises on [exercism.io](https://exercism.io/my/tracks) I find it very useful to learn new languages because you can compare them with other languages you know.
 
 ![Exercism](./exercism_img.png)
 
-## How to run program
+## How to run the program
 
 ### C#
 `dotnet run filename`
@@ -22,9 +21,7 @@ i find it very useful to learn new languages because you can compare it with oth
 
 `gcc filename.c -o filename`
 
-`./filename`
-
-or i use `make` to compile and run the program
+`./filename`or I use `make`` to compile and run the program
 
 ### Ruby
 
@@ -66,8 +63,7 @@ or
 `lua filename.lua`
 
 ### Haskell
-
-Haskell have the GHC (Glasgow Haskell Compiler) to compile and run the program
+Haskell has the GHC (Glasgow Haskell Compiler) to compile and run the program
 `ghc filename.hs`
 `./filename`
 
