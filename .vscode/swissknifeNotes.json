@@ -1,0 +1,9 @@
+[
+  {
+    "id": "9a8023b0-0728-11ef-90e8-4f5d1dea3981",
+    "body": "very useful syntax to select a char inside a string with a slice ${var:index1:offset}",
+    "file": "bash/pangram/pangram.sh",
+    "line": 12,
+    "author": "jocelinqueau"
+  }
+]
