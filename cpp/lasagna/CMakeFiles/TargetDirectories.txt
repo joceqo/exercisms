@@ -1,0 +1,4 @@
+/Users/jocelinqueau/Desktop/jocyhome/personal-code/exercisms/cpp/lasagna/CMakeFiles/lasagna.dir
+/Users/jocelinqueau/Desktop/jocyhome/personal-code/exercisms/cpp/lasagna/CMakeFiles/test_lasagna.dir
+/Users/jocelinqueau/Desktop/jocyhome/personal-code/exercisms/cpp/lasagna/CMakeFiles/ALL_BUILD.dir
+/Users/jocelinqueau/Desktop/jocyhome/personal-code/exercisms/cpp/lasagna/CMakeFiles/ZERO_CHECK.dir

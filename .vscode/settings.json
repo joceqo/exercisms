@@ -3,5 +3,6 @@
         "hello_world.h": "c",
         "ostream": "cpp"
     },
-    "cmake.configureOnOpen": false
+    "cmake.configureOnOpen": false,
+    "grammarly.files.include": []
 }

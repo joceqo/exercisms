@@ -2,7 +2,7 @@
 
 function helloWorld()
 {
-    return "Goodbye, Mars!\n";
+    return "Hello, World!";
 }
 
 print helloWorld();

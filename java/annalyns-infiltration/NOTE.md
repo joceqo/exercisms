@@ -1,0 +1,1 @@
+Calling Class.method, not this feels a bit weird
