@@ -3,6 +3,8 @@
 
 #include <stddef.h>
 #include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
 
 /// Return the latest score.
 int32_t latest(const int32_t *scores, size_t scores_len);
